@@ -1,0 +1,5 @@
+<script>start("/Users/ijongseung/market_data/chromedriver-mac-arm64/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("chromedriver","chromedriver",0,15314160,"14.6 MB",1742505841,"25. 3. 21. 오전 6:24:01");</script>
+<script>addRow("LICENSE.chromedriver","LICENSE.chromedriver",0,1536,"1.5 kB",1742505840,"25. 3. 21. 오전 6:24:00");</script>
+<script>addRow("THIRD_PARTY_NOTICES.chromedriver","THIRD_PARTY_NOTICES.chromedriver",0,601335,"587 kB",1742505840,"25. 3. 21. 오전 6:24:00");</script>
